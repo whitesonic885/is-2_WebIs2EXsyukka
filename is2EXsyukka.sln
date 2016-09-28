@@ -1,21 +1,21 @@
-Microsoft Visual Studio Solution File, Format Version 8.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "isEX2syukka", "http://localhost/is2ex/is2EXsyukka/is2EXsyukka.csproj", "{1D15CF16-DB1E-40C9-A713-80702F75159D}"
-	ProjectSection(ProjectDependencies) = postProject
-	EndProjectSection
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "is2EXsyukka", "is2EXsyukka.csproj", "{25C20868-614B-47E7-80C2-A56E3A354443}"
 EndProject
 Global
-	GlobalSection(SolutionConfiguration) = preSolution
-		Debug = Debug
-		Release = Release
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
-	GlobalSection(ProjectConfiguration) = postSolution
-		{1D15CF16-DB1E-40C9-A713-80702F75159D}.Debug.ActiveCfg = Debug|.NET
-		{1D15CF16-DB1E-40C9-A713-80702F75159D}.Debug.Build.0 = Debug|.NET
-		{1D15CF16-DB1E-40C9-A713-80702F75159D}.Release.ActiveCfg = Release|.NET
-		{1D15CF16-DB1E-40C9-A713-80702F75159D}.Release.Build.0 = Release|.NET
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25C20868-614B-47E7-80C2-A56E3A354443}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25C20868-614B-47E7-80C2-A56E3A354443}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25C20868-614B-47E7-80C2-A56E3A354443}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25C20868-614B-47E7-80C2-A56E3A354443}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
-	GlobalSection(ExtensibilityGlobals) = postSolution
-	EndGlobalSection
-	GlobalSection(ExtensibilityAddIns) = postSolution
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
 	EndGlobalSection
 EndGlobal
